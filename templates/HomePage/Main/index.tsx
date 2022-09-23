@@ -26,7 +26,7 @@ const Main = ({ scrollToRef }: MainProps) => (
                     Decentralised Infrastructure &nbsp;for Digital Experiences
                 </div>
                 <div className={styles.info}>
-                Bring True Ownership Of Virtual Assets, Verifiable Scarcity, And Open Standard For Interoperability To Your Digital Experience
+                {/* Bring True Ownership Of Virtual Assets, Verifiable Scarcity, And Open Standard For Interoperability To Your Digital Experience */}
                 </div>
             </div>
             <div className={styles.images}>
